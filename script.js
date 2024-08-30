@@ -1,4 +1,4 @@
-import toCelsius from './utility/tempConversion.js';
+import toCelsius from 'tempConversion.js';
 
 const apiKey = '9be9c10917a7b878c59d38bb4f0504ac';
 //SELECTOR INPUT
